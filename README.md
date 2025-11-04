@@ -78,8 +78,8 @@ export PATH=$PATH:~/go/bin
 ### Clone This Repository
 
 ```bash
-git clone <your-repository-url>
-cd subdomain_hunting
+git clone https://github.com/ranjaykumar84543805-cell/subdomains-enum-scripts
+cd subdomains-enum-scripts/
 chmod +x *.sh
 ```
 
