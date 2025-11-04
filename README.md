@@ -19,13 +19,12 @@ chmod +x *.sh
 ## Methods
 
 - Certificate Transparency logs
-- DNS brute force
-- Zone transfer attempts
+- DNS data
 - Common subdomain patterns
+- different sources 
 
 ## Requirements
 
-- bash
 - dig/host
 - curl/wget
 
