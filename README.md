@@ -32,4 +32,6 @@ chmod +x *.sh
 ## Disclaimer
 
 For authorized testing only. Ensure you have permission before scanning any domain.
-MIT License
+
+
+
