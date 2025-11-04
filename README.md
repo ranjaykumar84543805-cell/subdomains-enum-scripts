@@ -113,6 +113,8 @@ nano bevigil.sh
 # Example: Edit chaos.sh
 nano chaos.sh
 # Find the API_KEY variable and replace with your actual key
+ .................  and so on
+
 ```
 
 **Note:** Some services don't require API keys and work out of the box:
@@ -359,13 +361,6 @@ This toolkit is intended for authorized security testing and educational purpose
 - Some services may log your queries
 - Be mindful of network traffic generated
 
----
-
-## 📄 License
-
-This project is released under the MIT License. See LICENSE file for details.
-
----
 
 ## 🙏 Acknowledgments
 
